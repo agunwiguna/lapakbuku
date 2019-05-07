@@ -1,0 +1,4 @@
+[31-Jul-2018 13:30:07 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/carepoli/lapakbuku.carepol.id/view/home/cart.php on line 12
+[31-Jul-2018 13:30:10 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/carepoli/lapakbuku.carepol.id/view/home/cart.php on line 12
+[31-Jul-2018 13:30:19 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/carepoli/lapakbuku.carepol.id/view/home/cart.php on line 12
+[31-Jul-2018 13:30:34 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/carepoli/lapakbuku.carepol.id/view/home/cart.php on line 12
